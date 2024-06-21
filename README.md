@@ -4,7 +4,8 @@
 **SACHINkgu/SACHINkgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Here are some ideas to get you started:
+🔭 I’m open for work.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,8 +22,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinkgu" alt="sachinkgu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/programwell" target="blank"><img src="https://img.shields.io/twitter/follow/programwell?logo=twitter&style=for-the-badge" alt="programwell" /></a> </p>
-
+Here are some ideas to get you started:
+- 🔭 I’m open for work.
 - 🔭 I’m currently working on [TECH TO TEACH](https://github.com/SACHINkgu/TechToTeach1)
 
 - 🌱 I’m currently learning **AI, Node.js,React.js**
