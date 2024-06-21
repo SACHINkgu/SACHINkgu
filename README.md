@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Sachin Kuamr Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sachin Kumar Gupta</h1>
+<h3 align="center">A Full Stack Developer Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkgu&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkgu" /> </p>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I’m open for work.
 - 🔭 I’m currently working on [TECH TO TEACH](https://github.com/SACHINkgu/TechToTeach1)
 
-- 🌱 I’m currently learning **AI, Node.js,React.js**
+- 🌱 I’m currently learning **Postman**
 
 - 📝 I regularly write articles on [https://x.com/programwell?s=20](https://x.com/programwell?s=20)
 
