@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 - 🔭 I’m open for work.
-- 🔭 I’m currently working on [TECH TO TEACH](https://github.com/SACHINkgu/TechToTeach1)
+- 🔭 I’m currently working on AdMaster.
 
 - 🌱 I’m currently learning **Postman**
 
