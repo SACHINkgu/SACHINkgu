@@ -54,6 +54,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkgu&show_icons=true&locale=en" alt="sachinkgu" /></p>
 -->
-<h3 align="left">🏆 Holopin Badges:</h3>
 🏆 Holopin Badges
-https://www.holopin.io/@sachinkgu#
+[![An image of @sachinkgu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sachinkgu)](https://holopin.io/@sachinkgu)
