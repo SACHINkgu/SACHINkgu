@@ -1,4 +1,4 @@
-![Sachin Kumar Gupta _20240929_012930_0000_pages-to-jpg-0001](https://github.com/user-attachments/assets/90ba1450-ac2a-4373-9421-671d5dd7ec9d)
+l  ![Sachin Kumar Gupta _20240929_012930_0000_pages-to-jpg-0001](https://github.com/user-attachments/assets/90ba1450-ac2a-4373-9421-671d5dd7ec9d)
 
 
 <!--
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m open for work.
 - 🔭 I’m currently working on AdMaster.
 
-- 🌱 I’m currently learning **Postman**
+- 🌱 I’m currently learning **Microservices**
 
 - 📝 I regularly write articles on [https://x.com/programwell?s=20](https://x.com/programwell?s=20)
 
